@@ -1,0 +1,24 @@
+﻿  assignment_oper.cpp
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(19): error C2143: syntax error: missing ',' before '&'
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(20): error C2065: 'D': undeclared identifier
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(20): error C2228: left of '.feet' must have class/struct/union
+  c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(20): note: type is 'unknown-type'
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(21): error C2065: 'D': undeclared identifier
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(21): error C2228: left of '.inches' must have class/struct/union
+  c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(21): note: type is 'unknown-type'
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(60): error C2601: 'main': local function definitions are illegal
+  c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(30): note: this line contains a '{' which has not yet been matched
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(74): error C3861: 'D1': identifier not found
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(74): error C3861: 'D2': identifier not found
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(77): error C2065: 'D1': undeclared identifier
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(77): error C2228: left of '.displayDistance' must have class/struct/union
+  c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(77): note: type is 'unknown-type'
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(79): error C2065: 'D2': undeclared identifier
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(79): error C2228: left of '.displayDistance' must have class/struct/union
+  c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(79): note: type is 'unknown-type'
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(82): error C2065: 'D1': undeclared identifier
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(82): error C2065: 'D2': undeclared identifier
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(84): error C2065: 'D1': undeclared identifier
+c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(84): error C2228: left of '.displayDistance' must have class/struct/union
+  c:\users\sayan\onedrive\documents\visual studio 2015\projects\assignment_oper\assignment_oper\assignment_oper.cpp(84): note: type is 'unknown-type'
