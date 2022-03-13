@@ -36,10 +36,10 @@ private:
 
 // Main function for the program
 int main() {
-	item item1;                // Declare item1 of type Box
-	item item2;                // Declare item2 of type Box
-	item item3;                // Declare item3 of type Box
-	double volume = 0.0;     // Store the volume of a box here
+	item item1;                // Declare item1 of type item
+	item item2;                // Declare item2 of type item
+	item item3;                // Declare item3 of type item
+	double volume = 0.0;   
 
 							 //item1 specification
 	item1.setLength(9.0);
